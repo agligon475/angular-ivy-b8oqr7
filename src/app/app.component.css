@@ -1,0 +1,18 @@
+fa-icon ::ng-deep .gradient-background{
+  background: rgb(226,56,56);
+  background: linear-gradient(20deg, 
+    #AB0018 33%,
+    #BD6500 90%
+  );
+  color: black;
+  max-height: 50px;
+  width: 50px;
+}
+fa-icon ::ng-deep .gradient-background:hover{
+  background: rgb(226,56,56);
+  background: linear-gradient(20deg, 
+    #d4021d 33%,
+    #ee7f00 90%
+  );
+  color: black;
+}
